@@ -16,7 +16,7 @@
 docker-compose run --rm node vsce package
 ````
 
-### 拡張機能の公開
+### 拡張機能の公開（Visual Studio Team Servicesの場合）
 
 Visual Studio Team Servicesを活用して、拡張機能の公開を行います。
 公開するには、Personal Access Tokensが必要であるため、以下のサイトの通り設定をしてください。
